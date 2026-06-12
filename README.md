@@ -64,10 +64,6 @@ That unconventional road gave me something most engineers don't have: battle-tes
 
 ![Jan Carlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcmcardama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmcardama&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=jcmcardama&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
@@ -75,18 +71,18 @@ That unconventional road gave me something most engineers don't have: battle-tes
 ## 🚀 Career Journey
 
 ```text
-2008 – 2012   📚  Philippine Science High School  →  First taste of C++ & logic
-2012 – 2019   🎓  UP Diliman                       →  HTML, MySQL, JS, MIPS, Matlab
-2019 – 2022   📞  Concentrix (AT&T / GM)           →  Top Agent · 30+ calls/day · pressure-tested
-Feb  2022     🏫  Avion School                     →  ReactJS · Rails · Git · Agile
-Nov  2022     💼  HCL Technologies                 →  Software Engineer II (Full Stack)
+2008   – 2012     📚  Philippine Science High School   →  First taste of C++ & logic
+2012   – 2019     🎓  UP Diliman                       →  HTML, MySQL, JS, MIPS, Matlab
+Jul'19 – Jan'22   📞  Concentrix (AT&T / GM)           →  Top Agent · 30+ calls/day · pressure-tested
+Feb'22            🏫  Avion School                     →  ReactJS · Rails · Git · Agile
+Nov'22 – Present  💼  HCL Technologies                 →  Software Engineer II (Full Stack)
 ```
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm **actively open to new roles** — whether that's a product-focused startup, a global tech company, or an innovative team building something meaningful.
+I'm **open to opportunities** — whether that's a product-focused startup, a global tech company, or an innovative team building something meaningful.
 
 <div align="center">
 
